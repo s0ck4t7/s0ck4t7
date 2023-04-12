@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0ck4t7&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats-s0ck4t7.vercel.app/api?username=s0ck4t7&show_icons=true&theme=radical)]
 <!--
 **s0ck4t7/s0ck4t7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
